@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord.ext.commands import Greedy
 from typing import Union
 
-TOKEN = "ODQwMzgxNjAzNzM3MjM5NTc0.YJXYWw.dvle9z3V2MeA-xzihqSscyGxTO8"
+TOKEN = "token-here"
 
 bot = commands.Bot(command_prefix='pls',
                    help_command=None,
